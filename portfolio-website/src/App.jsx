@@ -1,4 +1,3 @@
-cat > src/App.jsx << 'EOF'
 import React, { Suspense } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Helmet } from 'react-helmet-async'
@@ -7,7 +6,8 @@ import Hero from './components/Hero'
 import Projects from './components/Projects'
 import Skills from './components/Skills'
 import Experience from './components/Experience'
-import Contact from './components/Contact'
+import Contact from './components/Contact.jsx'
+
 import Footer from './components/Footer'
 import LoadingSpinner from './components/LoadingSpinner'
 import { SEO } from './components/SEO'
@@ -77,4 +77,3 @@ const App = () => {
 }
 
 export default App
-EOF

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "company": "Tech Innovations Inc.",
+    "position": "Senior Frontend Developer",
+    "period": "2021 - Present",
+    "location": "San Francisco, CA",
+    "description": "Lead frontend development for multiple SaaS products serving 100K+ users.",
+    "achievements": [
+      "Led migration from legacy Angular to React, reducing bundle size by 40%",
+      "Implemented design system used by 30+ developers across the organization",
+      "Improved Core Web Vitals scores from 65 to 95+ across all products",
+      "Mentored 5 junior developers, improving team velocity by 25%"
+    ],
+    "technologies": ["React", "TypeScript", "GraphQL", "AWS", "Jest", "Storybook"],
+    "type": "full-time"
+  },
+  {
+    "id": 2,
+    "company": "Digital Solutions LLC",
+    "position": "Frontend Developer",
+    "period": "2019 - 2021",
+    "location": "Remote",
+    "description": "Developed responsive web applications for e-commerce and fintech clients.",
+    "achievements": [
+      "Built 15+ client projects with 99% client satisfaction rate",
+      "Reduced page load times by 60% through code splitting and lazy loading",
+      "Implemented PWA features increasing user engagement by 35%",
+      "Created reusable component library saving 200+ development hours"
+    ],
+    "technologies": ["Vue.js", "Nuxt.js", "Firebase", "Tailwind CSS", "Cypress"],
+    "type": "contract"
+  },
+  {
+    "id": 3,
+    "company": "Startup Ventures",
+    "position": "Full Stack Developer",
+    "period": "2017 - 2019",
+    "location": "New York, NY",
+    "description": "Built MVP products for early-stage startups across various industries.",
+    "achievements": [
+      "Developed 8 MVPs from scratch, 3 of which secured Series A funding",
+      "Implemented real-time features using WebSocket and Socket.io",
+      "Reduced server costs by 40% through performance optimization",
+      "Created CI/CD pipeline reducing deployment time from 2 hours to 15 minutes"
+    ],
+    "technologies": ["React", "Node.js", "MongoDB", "Docker", "Redis", "WebSocket"],
+    "type": "full-time"
+  },
+  {
+    "id": 4,
+    "company": "Freelance",
+    "position": "Web Developer",
+    "period": "2015 - 2017",
+    "location": "Various",
+    "description": "Provided web development services to small businesses and startups.",
+    "achievements": [
+      "Delivered 50+ websites and web applications for diverse clients",
+      "Achieved 100% project completion rate within deadline",
+      "Maintained 4.9/5 average client rating across all platforms",
+      "Built custom WordPress themes and plugins for 20+ clients"
+    ],
+    "technologies": ["JavaScript", "PHP", "WordPress", "CSS3", "jQuery", "MySQL"],
+    "type": "freelance"
+  }
+]

@@ -1,4 +1,3 @@
-cat > src/components/Hero.jsx << 'EOF'
 import React from 'react'
 import { motion } from 'framer-motion'
 import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope, FaFileDownload } from 'react-icons/fa'
@@ -121,4 +120,3 @@ const Hero = () => {
 }
 
 export default Hero
-EOF

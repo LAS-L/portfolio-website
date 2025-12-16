@@ -1,4 +1,3 @@
-cat > src/components/ThemeToggle.jsx << 'EOF'
 import React from 'react'
 import { motion } from 'framer-motion'
 import { FaSun, FaMoon } from 'react-icons/fa'
@@ -34,4 +33,3 @@ const ThemeToggle = () => {
 }
 
 export default ThemeToggle
-EOF

@@ -1,4 +1,3 @@
-cat > jest.config.js << 'EOF'
 export default {
   testEnvironment: 'jsdom',
   setupFilesAfterEnv: ['<rootDir>/jest.setup.js'],
@@ -16,4 +15,3 @@ export default {
     '!src/reportWebVitals.js'
   ]
 }
-EOF

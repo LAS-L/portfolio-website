@@ -1,4 +1,3 @@
-cat > .eslintrc.js << 'EOF'
 export default {
   env: {
     browser: true,
@@ -30,4 +29,3 @@ export default {
     }
   }
 }
-EOF
